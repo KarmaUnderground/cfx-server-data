@@ -1,0 +1,8 @@
+[submodule "resources/[libs]/oxmysql"]
+	path = resources/[libs]/oxmysql
+	url = https://github.com/overextended/oxmysql.git
+	branch = main
+[submodule "resources/[libs]/[esx-framework]"]
+	path = resources/[libs]/[esx-framework]
+	url = https://github.com/esx-framework/esx-legacy.git
+	branch = main
