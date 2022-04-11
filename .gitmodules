@@ -6,3 +6,7 @@
 	path = resources/oxmysql
 	url = https://github.com/KarmaUnderground/oxmysql.git
 	branch = main
+[submodule "resources/[ku]/[scenarios]/ku_scenario_fightclub"]
+	path = resources/[ku]/[scenarios]/ku_scenario_fightclub
+	url = https://github.com/KarmaUnderground/ku_scenario_fightclub.git
+	branch = master
