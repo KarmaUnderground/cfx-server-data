@@ -2,3 +2,7 @@
 	path = resources/[libs]/[esx-framework]
 	url = https://github.com/esx-framework/esx-legacy.git
 	branch = main
+[submodule "resources/oxmysql"]
+	path = resources/oxmysql
+	url = https://github.com/KarmaUnderground/oxmysql.git
+	branch = main
